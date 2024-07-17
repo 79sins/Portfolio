@@ -1,6 +1,6 @@
 # Анализ убытков приложения.
 - [Ссылка на тетрадь](https://github.com/79sins/yandex_practicum/blob/4383a283d84fd43974b8a02445ad279cdeb34b35/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%83%D0%B1%D1%8B%D1%82%D0%BA%D0%BE%D0%B2/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%83%D0%B1%D1%8B%D1%82%D0%BA%D0%BE%D0%B2.ipynb)
-- [HTML]()
+- [HTML](https://github.com/79sins/yandex_practicum/blob/ce4a8e1e64a76d2a530dcdb91198fdf2e0156e98/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%83%D0%B1%D1%8B%D1%82%D0%BA%D0%BE%D0%B2/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%83%D0%B1%D1%8B%D1%82%D0%BA%D0%BE%D0%B2.html)
 
 # Задача
 Разобраться в причинах того, почему, несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки и дать рекоммендации, чтобы компании выйти в плюс.
